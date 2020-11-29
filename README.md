@@ -1,2 +1,2 @@
 # bokal.github.io  
-Doing sometesting with sites
+Doing some testing with sites
